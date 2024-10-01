@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233779788026",
+    "project_id": "crud-pr1",
+    "storage_bucket": "crud-pr1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233779788026:android:6ede96f4584fdae0273143",
+        "android_client_info": {
+          "package_name": "com.example.holamundo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdWoWXFvnUV3WWMKnfGAqFflhrjax_ABU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
